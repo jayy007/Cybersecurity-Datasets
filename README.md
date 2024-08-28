@@ -1,7 +1,7 @@
 # Cybersecurity-Datasets
 A curated list of Cybersecurity datasets which can be helful for Cyber Secuirty Enthusiastic #learning #datasets #cybersecurity #malware
 
-Please contribute to this list with new datasets by sending me a pull request or by contacting me at [@Manikanta](https://x.com/SunnyJa29261386]?lang=es).
+Please contribute to this list with new datasets by sending me a pull request or by contacting me at [@SunnyJa29261386](https://x.com/SunnyJa29261386]?lang=es).
 
 Happy learning!
 
